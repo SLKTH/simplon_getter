@@ -4,7 +4,7 @@
 ## Things it can do:
 
 - Get all event links from Simplon website (+last item again?) (=eventlinks*.py)
-- Get event info (date,title and info) (=geteventinfo.py)
+- Get event info (date,title, subtitle and info) (=geteventinfo.py)
 
 Things to work on:
 
