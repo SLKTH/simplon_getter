@@ -29,9 +29,6 @@ for tag in tags:
 
     event_info = tag.p ## <<<< Get the class instead of <p> ???
 
-    print event_info
-
-
 ## PRINT DATE AND EVENT NAME
 
 print "Date:", event_date.getText()
