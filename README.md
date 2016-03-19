@@ -10,4 +10,3 @@ Things to work on:
 
 - Create functions
 - Parse html in event info (<strong and links- oh bugger)
-- 
