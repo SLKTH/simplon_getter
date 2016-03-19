@@ -25,8 +25,6 @@ event_date = date[0]
 
 for tag in tags:
     event_title = tag.h1
-    event_subtitle = tag.h2
-
     event_info = tag.p ## <<<< Get the class instead of <p> ???
 
     print event_info
@@ -36,7 +34,6 @@ for tag in tags:
 
 print "Date:", event_date.getText()
 print "Title:", event_title.getText()
-print "Subtitle:", event_subtitle.getText()
 print "\n"
 print "Title:"
 
